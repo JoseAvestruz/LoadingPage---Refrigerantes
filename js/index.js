@@ -23,3 +23,8 @@ prev.onclick = () =>{
     list[active].classList.add('active')
     
 }
+
+function sayHi (name){
+    return name
+}
+console.log(jose)
